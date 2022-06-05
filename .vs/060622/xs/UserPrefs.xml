@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{50DD5153-C633-4A92-9091-9121297E4252}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="abstrackeyword/IStore.cs">
+    <Files>
+      <File FileName="abstrackeyword/Program.cs" Line="9" Column="13" />
+      <File FileName="abstrackeyword/Product.cs" Line="15" Column="48" />
+      <File FileName="abstrackeyword/IStore.cs" Line="11" Column="37" />
+      <File FileName="abstrackeyword/Market.cs" Line="23" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="060622" expanded="True">
+            <Node name="abstrackeyword" expanded="True">
+              <Node name="IStore.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.abstrackeyword FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
